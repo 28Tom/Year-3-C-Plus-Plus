@@ -1,0 +1,8 @@
+﻿  Lab2Deck.cpp
+E:\Program Files (x86)\Visual Studio\Github\Year-3-C-Plus-Plus\Projects\Lab 2\Lab2Deck\Lab2Deck.cpp(52,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Program Files (x86)\Visual Studio\Github\Year-3-C-Plus-Plus\Projects\Lab 2\Lab2Deck\Lab2Deck.cpp(62,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Lab2Deck.vcxproj -> E:\Program Files (x86)\Visual Studio\Github\Year-3-C-Plus-Plus\Projects\Lab 2\Lab2Deck\x64\Debug\Lab2Deck.exe
